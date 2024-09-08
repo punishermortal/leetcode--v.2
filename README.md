@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/punishermortal/leetcode--v.2/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/punishermortal/leetcode--v.2/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
