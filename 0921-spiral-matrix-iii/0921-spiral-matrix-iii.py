@@ -10,7 +10,7 @@ class Solution:
         steps = 0
         res=[]
         res.append([i,j])
-        while(len(res)<m*n):
+        while(len(res)!=m*n):
             if dir == 0 or dir == 2:
                 steps +=1
             for step in range(steps):
