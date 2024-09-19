@@ -1,5 +1,5 @@
 class Solution:
-    def solve(self , s :str) -> List[int]:
+    def solve(self , s :str):
         res=[]
         for i in range(len(s)):
             if s[i] == '+' or s[i] == '-' or s[i] == '*':
