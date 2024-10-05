@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/punishermortal/leetcode--v.2/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/punishermortal/leetcode--v.2/tree/master/0241-different-ways-to-add-parentheses) |
+| [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -145,5 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
