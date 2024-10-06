@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/punishermortal/leetcode--v.2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/punishermortal/leetcode--v.2/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/punishermortal/leetcode--v.2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/punishermortal/leetcode--v.2/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 | [2411-spiral-matrix-iv](https://github.com/punishermortal/leetcode--v.2/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/punishermortal/leetcode--v.2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2755-extra-characters-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 ## Sliding Window
 |  |
 | ------- |
