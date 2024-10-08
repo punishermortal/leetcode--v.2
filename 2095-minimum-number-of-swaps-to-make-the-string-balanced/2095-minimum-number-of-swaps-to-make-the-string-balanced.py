@@ -24,10 +24,10 @@ class Stack:
 class Solution:
     def minSwaps(self, s: str) -> int:
         st = Stack()
-        for i in range(len(s)-1):
-            if s[i]=="[" and s[i+1]=="[":
+        for i in range(len(s)):
+            if s[i]=="[":
                 st.push(s[i])
-        if s[len(s)-1]=="[":
-            st.push(s[len(s)-1])
+            else:
+                if st.length_st()>0:
+                    st.pop()
         return (st.length_st()+1)//2
-        
