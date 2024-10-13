@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/punishermortal/leetcode--v.2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punishermortal/leetcode--v.2/tree/master/0059-spiral-matrix-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-spiral-matrix-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/0921-spiral-matrix-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -148,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/punishermortal/leetcode--v.2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
