@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/punishermortal/leetcode--v.2/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/punishermortal/leetcode--v.2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/punishermortal/leetcode--v.2/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/punishermortal/leetcode--v.2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/punishermortal/leetcode--v.2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/punishermortal/leetcode--v.2/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/punishermortal/leetcode--v.2/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
