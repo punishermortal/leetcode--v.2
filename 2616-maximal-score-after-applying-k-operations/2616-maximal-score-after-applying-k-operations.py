@@ -11,4 +11,5 @@ class Solution:
             k-=1
         return res
 
+# in python max heapyf not supported so use trick ,since heapq only supports min-heaps, we can insert the negative of each element to simulate a max-heap.
         
