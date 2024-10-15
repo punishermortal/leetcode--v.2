@@ -8,3 +8,5 @@ class Solution:
             else:
                 res += black
         return res
+
+# logic is that have to be remebemer how many 1 are in past till o will get
