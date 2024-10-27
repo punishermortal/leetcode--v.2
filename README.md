@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-spiral-matrix-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/0921-spiral-matrix-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/punishermortal/leetcode--v.2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/punishermortal/leetcode--v.2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/punishermortal/leetcode--v.2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/punishermortal/leetcode--v.2/tree/master/1694-make-sum-divisible-by-p) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/punishermortal/leetcode--v.2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punishermortal/leetcode--v.2/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/0921-spiral-matrix-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/punishermortal/leetcode--v.2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/punishermortal/leetcode--v.2/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/punishermortal/leetcode--v.2/tree/master/0241-different-ways-to-add-parentheses) |
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/punishermortal/leetcode--v.2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
