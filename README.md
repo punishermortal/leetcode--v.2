@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/punishermortal/leetcode--v.2/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/punishermortal/leetcode--v.2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/punishermortal/leetcode--v.2/tree/master/1197-parsing-a-boolean-expression) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/punishermortal/leetcode--v.2/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
