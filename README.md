@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/punishermortal/leetcode--v.2/tree/master/0059-spiral-matrix-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/punishermortal/leetcode--v.2/tree/master/0646-maximum-length-of-pair-chain) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/0921-spiral-matrix-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/punishermortal/leetcode--v.2/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/punishermortal/leetcode--v.2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/punishermortal/leetcode--v.2/tree/master/1694-make-sum-divisible-by-p) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/punishermortal/leetcode--v.2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/punishermortal/leetcode--v.2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/punishermortal/leetcode--v.2/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -274,7 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/punishermortal/leetcode--v.2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/punishermortal/leetcode--v.2/tree/master/2699-count-the-number-of-fair-pairs) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
