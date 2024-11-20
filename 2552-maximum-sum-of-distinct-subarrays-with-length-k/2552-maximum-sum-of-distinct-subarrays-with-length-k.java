@@ -1,30 +1,32 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        
-        HashMap<Integer,Integer> hm = new HashMap<>();
-        int l=0,r=0,n=nums.length;
-        
-        long ans =0,sum=0;;
-
-        for(int i=0;i<k;i++)
-        {
-            hm.put(nums[i],hm.getOrDefault(nums[i],0)+1);
-            sum +=nums[i];
+        int i=0;
+        int j=0;
+        long sum=0;
+        long maxi=0;
+        HashMap<Integer,Integer>hm=new HashMap<>();
+        while(j<nums.length){
+            sum+=nums[j];
+            hm.put(nums[j],hm.getOrDefault(nums[j],0)+1);
+            if(j-i+1<k){
+                j++;
+            }
+            else if(j-i+1==k){
+                if(hm.size()==k){
+                    System.out.println(hm.size());
+                    maxi=Math.max(maxi,sum);
+                }
+                i++;
+                j++;
+                sum=sum-(long)nums[i-1];
+                if(hm.get(nums[i-1])==1){
+                    hm.remove(nums[i-1]);
+                }else{
+                    hm.put(nums[i-1],hm.get(nums[i-1])-1);
+                }
+                
+            }
         }
-        if(hm.size()==k) ans = sum;
-        r=k;
-        while(r<n)
-        {
-            if(hm.size()==k) ans = Math.max(ans,sum);
-            sum -= nums[l];
-            hm.put(nums[l],hm.get(nums[l])-1);
-            if(hm.get(nums[l])==0) hm.remove(nums[l]);
-            l++;
-            sum +=nums[r];
-            hm.put(nums[r],hm.getOrDefault(nums[r],0)+1);
-            if(hm.size()==k) ans = Math.max(ans,sum);
-            r++;
-        }
-        return ans;
+        return maxi;
     }
 }
