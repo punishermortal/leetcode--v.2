@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/punishermortal/leetcode--v.2/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/punishermortal/leetcode--v.2/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/punishermortal/leetcode--v.2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/punishermortal/leetcode--v.2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/0921-spiral-matrix-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/punishermortal/leetcode--v.2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/punishermortal/leetcode--v.2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/punishermortal/leetcode--v.2/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/punishermortal/leetcode--v.2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/punishermortal/leetcode--v.2/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/punishermortal/leetcode--v.2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/punishermortal/leetcode--v.2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/0647-palindromic-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/punishermortal/leetcode--v.2/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/punishermortal/leetcode--v.2/tree/master/2699-count-the-number-of-fair-pairs) |
