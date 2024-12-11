@@ -8,9 +8,7 @@ class Solution:
                 else:
                     hsh[s[i:j]]=1
         mx=-1
-        res=[]
         for i in hsh.keys():
             if hsh[i]>=3 and len(i)>mx and len(set(i))==1:
-                res.append(i)
                 mx=len(i)
         return(mx)
