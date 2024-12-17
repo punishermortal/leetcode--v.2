@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/punishermortal/leetcode--v.2/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/punishermortal/leetcode--v.2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/punishermortal/leetcode--v.2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/punishermortal/leetcode--v.2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/punishermortal/leetcode--v.2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/punishermortal/leetcode--v.2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/punishermortal/leetcode--v.2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/punishermortal/leetcode--v.2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/punishermortal/leetcode--v.2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/punishermortal/leetcode--v.2/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/punishermortal/leetcode--v.2/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/punishermortal/leetcode--v.2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/punishermortal/leetcode--v.2/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/punishermortal/leetcode--v.2/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/punishermortal/leetcode--v.2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/punishermortal/leetcode--v.2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/punishermortal/leetcode--v.2/tree/master/2616-maximal-score-after-applying-k-operations) |
