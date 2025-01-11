@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/punishermortal/leetcode--v.2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/punishermortal/leetcode--v.2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1524-string-matching-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/punishermortal/leetcode--v.2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/punishermortal/leetcode--v.2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/punishermortal/leetcode--v.2/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/punishermortal/leetcode--v.2/tree/master/1755-defuse-the-bomb) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/punishermortal/leetcode--v.2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/punishermortal/leetcode--v.2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/punishermortal/leetcode--v.2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/punishermortal/leetcode--v.2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/punishermortal/leetcode--v.2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
