@@ -6,8 +6,5 @@ class Solution:
                 ls.pop()
             else:
                 ls.append(s[i])
-        ans=""
-        for i in ls:
-            ans = ans+i
-        return ans
+        return ''.join(ls)
         
