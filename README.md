@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/punishermortal/leetcode--v.2/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/punishermortal/leetcode--v.2/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/punishermortal/leetcode--v.2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/punishermortal/leetcode--v.2/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/punishermortal/leetcode--v.2/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/punishermortal/leetcode--v.2/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/punishermortal/leetcode--v.2/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2107-find-unique-binary-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/punishermortal/leetcode--v.2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/punishermortal/leetcode--v.2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2232-adding-spaces-to-a-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/punishermortal/leetcode--v.2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/punishermortal/leetcode--v.2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/punishermortal/leetcode--v.2/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/punishermortal/leetcode--v.2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/punishermortal/leetcode--v.2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/punishermortal/leetcode--v.2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/punishermortal/leetcode--v.2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2107-find-unique-binary-string](https://github.com/punishermortal/leetcode--v.2/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/punishermortal/leetcode--v.2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
