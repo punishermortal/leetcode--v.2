@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/punishermortal/leetcode--v.2/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/punishermortal/leetcode--v.2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/punishermortal/leetcode--v.2/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/punishermortal/leetcode--v.2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/punishermortal/leetcode--v.2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/punishermortal/leetcode--v.2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/punishermortal/leetcode--v.2/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/punishermortal/leetcode--v.2/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/punishermortal/leetcode--v.2/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/punishermortal/leetcode--v.2/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/punishermortal/leetcode--v.2/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/punishermortal/leetcode--v.2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/punishermortal/leetcode--v.2/tree/master/0787-sliding-puzzle) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/punishermortal/leetcode--v.2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/punishermortal/leetcode--v.2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/punishermortal/leetcode--v.2/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/punishermortal/leetcode--v.2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -466,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/punishermortal/leetcode--v.2/tree/master/0780-max-chunks-to-make-sorted) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/punishermortal/leetcode--v.2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
