@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/punishermortal/leetcode--v.2/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/punishermortal/leetcode--v.2/tree/master/0241-different-ways-to-add-parentheses) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/punishermortal/leetcode--v.2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/punishermortal/leetcode--v.2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/punishermortal/leetcode--v.2/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/punishermortal/leetcode--v.2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
